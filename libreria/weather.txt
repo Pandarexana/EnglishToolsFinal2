@@ -1,0 +1,21 @@
+#JSGF V1.0;
+grammar sentence;
+ 
+public <sentence> =
+[<dato0>]
+[<dato1>]
+[<dato2>]
+[<dato3>]
+[<dato4>]
+[<dato5>]
+[<dato6>]
+[<dato7>];
+ 
+<dato0>=Cloudy;
+<dato1>=Cold;
+<dato2>=Foggy;
+<dato3>=Hot;
+<dato4>=Rainy;
+<dato5>=Snowy;
+<dato6>=Sunny;
+<dato7>=Windy;

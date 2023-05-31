@@ -1,0 +1,37 @@
+#JSGF V1.0;
+grammar sentence;
+ 
+public <sentence> =
+[<dato0>]
+[<dato1>]
+[<dato2>]
+[<dato3>]
+[<dato4>]
+[<dato5>]
+[<dato6>]
+[<dato7>]
+[<dato8>]
+[<dato9>]
+[<dato10>]
+[<dato11>]
+[<dato12>]
+[<dato13>]
+[<dato14>]
+[<dato15>];
+ 
+<dato0>=Bad;
+<dato1>=Beautiful;
+<dato2>=Big;
+<dato3>=Blue;
+<dato4>=Close;
+<dato5>=Fast;
+<dato6>=Happy;
+<dato7>=Old;
+<dato8>=Open;
+<dato9>=Short;
+<dato10>=Slow;
+<dato11>=Small;
+<dato12>=Tall;
+<dato13>=Ugly;
+<dato14>=White;
+<dato15>=Young;

@@ -1,0 +1,13 @@
+#JSGF V1.0;
+grammar sentence;
+ 
+public <sentence> =
+[<dato0>]
+[<dato1>]
+[<dato2>]
+[<dato3>];
+ 
+<dato0>=Summer;
+<dato1>=Fall;
+<dato2>=Spring;
+<dato3>=Winter;

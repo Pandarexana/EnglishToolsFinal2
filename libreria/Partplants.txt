@@ -1,0 +1,15 @@
+#JSGF V1.0;
+grammar sentence;
+ 
+public <sentence> =
+[<dato0>]
+[<dato1>]
+[<dato2>]
+[<dato3>]
+[<dato4>];
+ 
+<dato0>=Fruit;
+<dato1>=Flower;
+<dato2>=Leaf;
+<dato3>=Stem;
+<dato4>=Root;
